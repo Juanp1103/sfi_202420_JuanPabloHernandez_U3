@@ -4,8 +4,8 @@ void setup() {
 
 void loop() {
     // Definimos los dos números
-    static float num1 = 3589.3645;
-    static float num2 = 123.4567;
+    static float num1 = 3657.9765; //45 64 9f a0
+    static float num2 = 3548.4567; // 45 5d c7 4f
 
     uint8_t* p_num1 = (uint8_t*) &num1;
     uint8_t* p_num2 = (uint8_t*) &num2;
